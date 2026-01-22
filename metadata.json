@@ -1,0 +1,8 @@
+{
+  "name": "Shahm Core AI",
+  "description": "A unified intelligent assistant for Shahm Contracting Company, featuring AI construction consultation, safety analysis, and automated reporting with a futuristic phosphorescent interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
